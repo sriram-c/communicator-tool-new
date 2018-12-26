@@ -1,0 +1,3 @@
+(rule-initial_MRS_info  v-LTOP LTOP-INDEX h0 e14)
+(rule-rel-values kri-tam-asser id-SF-TENSE-MOOD-PROG-PERF 30000 prop pres indicative no no)
+(rule-rel-values v-karwA MRS_info id-MRS_concept-LBL-ARG0-ARG1-ARG2 30000 _eat_v_1 h13 x10 x12 )

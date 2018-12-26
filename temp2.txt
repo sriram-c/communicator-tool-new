@@ -1,0 +1,1 @@
+(MRS_info  id-MRS_concept-LBL-ARG0-ARG1-ARG2 30000 _eat_v_1

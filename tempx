@@ -1,0 +1,7 @@
+(MRS_info  id-MRS_concept-LBL-ARG0 10000 _baby_n_1 h9 x10)
+(MRS_info  id-MRS_concept-LBL-ARG0 20000 _fruit_n_1 h11 x12)
+(MRS_info  id-MRS_concept-LBL-ARG0-RSTR-BODY 10000 _the_q h1 x10 h3 h4)
+(MRS_info  id-MRS_concept-LBL-ARG0-RSTR-BODY 20000 _the_q h5 x12 h7 h8)
+(Restr-Restricted  h0  h13)
+(Restr-Restricted     h3  h9)
+(Restr-Restricted     h7  h11)
